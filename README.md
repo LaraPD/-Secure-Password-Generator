@@ -16,7 +16,7 @@ The user specifies the desired length of the password
   Clone the repository and run from the terminal:
 
 ```bash
-python PasswordGenerator.py
+python password_generator.py
 ```
 ## ✍️ Example
 <img width="1004" height="72" alt="image" src="https://github.com/user-attachments/assets/9fb927b4-7243-4e4f-9efd-beaf2eb9ab3e" />
