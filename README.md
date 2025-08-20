@@ -3,7 +3,7 @@
   This project is a simple Python script that generates a secure random password.  
 The user specifies the desired length of the password
 
-## ✨ Features
+## ✨ Features 
 - Generates secure random passwords.
 - Includes uppercase, lowercase, punctuation and digits.
 - User chooses the password length.
