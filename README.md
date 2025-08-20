@@ -25,3 +25,5 @@ python password_generator.py
 - Input validation (only positive integers).
 - Use the *secrets* library for stronger randomness.
 
+🌍 Available languages 
+[ENGLISH](README.md) | [ESPAÑOL](README.es.md)
