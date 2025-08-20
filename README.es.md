@@ -3,6 +3,9 @@
 Este proyecto es un sencillo script en Python que genera una contraseña aleatoria y segura.  
 El usuario especifica la longitud deseada de la contraseña.
 
+🌍 Idiomas disponibles ➡️ [ENGLISH](README.md) | [ESPAÑOL](README.es.md)
+
+
 ## ✨ Características
 - Genera contraseñas seguras de forma aleatoria.
 - Incluye letras mayúsculas y minúsculas, signos de puntuación y dígitos.
@@ -27,6 +30,3 @@ python password_generator.py
 
 - Validación de entrada (solo enteros positivos).
 - Usar la librería *secrets* para mayor seguridad en la aleatoriedad.
-
-🌍 Lenguajes disponibles
-[ESPAÑOL](README.es.md) | [ENGLISH](README.md)
