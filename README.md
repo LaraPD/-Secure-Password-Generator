@@ -3,7 +3,7 @@
   This project is a simple Python script that generates a secure random password.  
 The user specifies the desired length of the password.
 
-🌍 Available languages ➡️ [ENGLISH](README.md) | [ESPAÑOL](README.es.md)
+🌍 Available languages ➡️ [ESPAÑOL](README.es.md) | [ENGLISH](README.md) 
 
 
 ## ✨ Features 
