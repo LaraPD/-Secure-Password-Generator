@@ -16,11 +16,12 @@ The user specifies the desired length of the password.
 - No extra packages needed.
 
 ## 🎯 Usage
-  Clone the repository and run from the terminal:
+Clone the repository and run from the terminal:
 
 ```bash
 python password_generator.py
 ```
+🐍 [Go to the code](password_generator.py) 
 
 ## ✍️ Example
 <img width="1004" height="72" alt="image" src="https://github.com/user-attachments/assets/9fb927b4-7243-4e4f-9efd-beaf2eb9ab3e" />
