@@ -21,6 +21,7 @@ Clona el repositorio y ejecuta desde la terminal:
 ```bash
 python password_generator.py
 ````
+🐍 [Ir al código](password_generator.py) 
 
 ## ✍️ Ejemplo
 
