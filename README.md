@@ -21,6 +21,14 @@ The user specifies the desired length of the password.
 ```bash
 python password_generator.py
 ```
+
+```html
+<pre>
+<code id="code-snippet">python password_generator.py</code>
+<button onclick="navigator.clipboard.writeText(document.getElementById('code-snippet').innerText)">📋 Copy</button>
+</pre>
+```
+
 ## ✍️ Example
 <img width="1004" height="72" alt="image" src="https://github.com/user-attachments/assets/9fb927b4-7243-4e4f-9efd-beaf2eb9ab3e" />
 
